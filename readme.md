@@ -38,7 +38,7 @@ The Allium58 is an open source 6*4+4keys column-staggered split keyboard. It is 
 | Pro Micro (compatible with Sea Picro RP2040) / nice!nano or equivalent | 2 |  |
 | Reset switch | 2 | |
 | Diodes | 58 | SMD Only (SOD-123 Package) |
-| Hotswap Sockets | 42 | [GLP variant] Gateron Low Profile Hotswap Sockets |
+| Hotswap Sockets | 58 | [GLP variant] Gateron Low Profile Hotswap Sockets |
 | Key switches | 56 | [GLP variant] Gateron KS-33 / KS-27 |
 | Keycaps | 58 pieces | 1u 56 pcs, 1.5u 2 pcs [GLP Keycaps Comparison](https://showcase.beekeeb.com/the-keycaps-of-gateron-low-profile-key-switches-and-kailh-choc-v1-key-switch/) |
 | Spacer M2 5mm | 10 pieces | For Case assembly |

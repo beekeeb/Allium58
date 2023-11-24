@@ -57,7 +57,7 @@ The Allium58 is an open source 6*4+4keys column-staggered split keyboard. It is 
 | OLED module / nice!view display | 2 | |
 | Microcontroller/OLED Sockets & Pins | 1 set |  | |
 
-## Ordering Parts
+## Case
 - Top Plate & Low Profile Bottom Case: https://www.printables.com/model/657755-low-profile-case-for-allium58-glp
 
 ## Firmware

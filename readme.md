@@ -41,9 +41,9 @@ The Allium58 is an open source 6*4+4keys column-staggered split keyboard. It is 
 | Hotswap Sockets | 58 | [GLP variant] Gateron Low Profile Hotswap Sockets |
 | Key switches | 58 | [GLP variant] Gateron KS-33 / KS-27 |
 | Keycaps | 58 pieces | 1u 56 pcs, 1.5u 2 pcs [GLP Keycaps Comparison](https://showcase.beekeeb.com/the-keycaps-of-gateron-low-profile-key-switches-and-kailh-choc-v1-key-switch/) |
-| Spacer M2 5mm | 10 pieces | For Case assembly |
-| Spacer M2 9mm (or 14mm with MCU sockets) | 4 pieces | For OLED cover |
-| Screw M2 4mm | 28 screws | |
+| Female Threaded Brass Spacer M2 5mm | 10 pieces | For Case assembly |
+| Female Threaded Brass Spacer M2 9mm (or 14mm with MCU sockets) | 4 pieces | For OLED cover |
+| GP823 Screw M2 4mm | 28 screws | |
 | [Wired build] TRRS (4 poles) cable | 1 |  |
 | [Wired build] TRRS jack | 2 |  |
 | [Wired build] Micro USB or USB-C cable | 1 | Avoid charge-only cables |

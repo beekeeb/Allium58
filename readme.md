@@ -62,9 +62,9 @@ The Allium58 is an open source 6*4+4keys column-staggered split keyboard. It is 
 
 ## Firmware
 
-- [QMK](https://github.com/qmk/qmk_firmware "QMK") - compatible with `lily58/rev1`
-- [Vial](https://github.com/vial-kb/vial-qmk "Vial") (based on QMK) - supported
-- [ZMK](https://github.com/zmkfirmware/zmk "ZMK") - supported
+- Wired: [QMK](https://github.com/qmk/qmk_firmware "QMK") - compatible with `lily58/rev1`
+- Wired: [Vial](https://github.com/vial-kb/vial-qmk "Vial") (based on QMK) - supported
+- Wireless: [ZMK](https://github.com/zmkfirmware/zmk "ZMK") - supported
 
 
 ## Ordering Parts

@@ -36,7 +36,7 @@ The Allium58 is an open source 6*4+4keys column-staggered split keyboard. It is 
 | Bottom plate / 3D printed case | 1 set | |
 | OLED cover | 2 | |
 | Pro Micro (compatible with Sea Picro RP2040) / nice!nano or equivalent | 2 |  |
-| Reset switch | 2 | |
+| Reset button | 2 | TS-1136 THT |
 | Diodes | 58 | SMD Only (SOD-123 Package) |
 | Hotswap Sockets | 58 | [GLP variant] Gateron Low Profile Hotswap Sockets |
 | Key switches | 58 | [GLP variant] Gateron KS-33 / KS-27 |
@@ -48,14 +48,15 @@ The Allium58 is an open source 6*4+4keys column-staggered split keyboard. It is 
 | [Wired build] TRRS jack | 2 |  |
 | [Wired build] Micro USB or USB-C cable | 1 | Avoid charge-only cables |
 | [Wireless build] JST battery socket | 2 | |
-| [Wireless build] Battery with JST connector | 2 | |  |
+| [Wireless build] Battery with JST connector | 2 | |
+| [Wireless build] Battery / power switch | 2 | IS-1290A-W-G / MSK12C02 / SSSS811101 |
 
 ### Optional
 
 | Name | Count | Remarks |
 |:-|:-|:-|
 | OLED module / nice!view display | 2 | |
-| Microcontroller/OLED Sockets & Pins | 1 set |  | |
+| Microcontroller / OLED Sockets & Pins | 1 set |  |
 
 ## Case
 - Top Plate & Low Profile Bottom Case: https://www.printables.com/model/657755-low-profile-case-for-allium58-glp
